@@ -1,0 +1,2186 @@
+[
+  {
+    "name": "visual-02-00.webp",
+    "size": [
+      8146,
+      3481
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      3259,
+      1393
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-03-00.webp",
+    "size": [
+      660,
+      360
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      462,
+      252
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-03-01.webp",
+    "size": [
+      2208,
+      1204
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1104,
+      602
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-03-02.webp",
+    "size": [
+      600,
+      400
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      480,
+      320
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-03-03.webp",
+    "size": [
+      786,
+      786
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      786,
+      786
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-04-00.webp",
+    "size": [
+      1229,
+      922
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      615,
+      461
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-01.webp",
+    "size": [
+      800,
+      600
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      480,
+      360
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-02.webp",
+    "size": [
+      1080,
+      721
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      720,
+      481
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-03.webp",
+    "size": [
+      800,
+      600
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      480,
+      360
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-04.webp",
+    "size": [
+      564,
+      846
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      251,
+      376
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-05.webp",
+    "size": [
+      960,
+      720
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      480,
+      360
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-04-06.webp",
+    "size": [
+      600,
+      800
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      360,
+      480
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-01.webp",
+    "size": [
+      886,
+      856
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      355,
+      343
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-02.webp",
+    "size": [
+      1168,
+      591
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      519,
+      263
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-03.webp",
+    "size": [
+      897,
+      802
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      359,
+      321
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-05.webp",
+    "size": [
+      869,
+      731
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      348,
+      293
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-06.webp",
+    "size": [
+      1536,
+      2048
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      768,
+      1024
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-07.webp",
+    "size": [
+      1536,
+      2048
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      615,
+      820
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-05-08.webp",
+    "size": [
+      1229,
+      1639
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      461,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-00.webp",
+    "size": [
+      2686,
+      1568
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      2418,
+      1412
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-01.webp",
+    "size": [
+      2066,
+      1332
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1033,
+      666
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-02.webp",
+    "size": [
+      2310,
+      1498
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1027,
+      666
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-03.webp",
+    "size": [
+      2686,
+      1568
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      2418,
+      1412
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-04.webp",
+    "size": [
+      1533,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      767,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-06.webp",
+    "size": [
+      619,
+      817
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      619,
+      817
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-06-07.webp",
+    "size": [
+      2331,
+      1498
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1036,
+      666
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-08.webp",
+    "size": [
+      1550,
+      999
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      775,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-09.webp",
+    "size": [
+      918,
+      642
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      918,
+      642
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-06-12.webp",
+    "size": [
+      2021,
+      1332
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1011,
+      666
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-06-13.webp",
+    "size": [
+      1533,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      767,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-00.webp",
+    "size": [
+      2560,
+      1440
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1536,
+      864
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-01.webp",
+    "size": [
+      1530,
+      1070
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      918,
+      642
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-02.webp",
+    "size": [
+      1530,
+      1070
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      918,
+      642
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-03.webp",
+    "size": [
+      1224,
+      856
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      612,
+      428
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-05.webp",
+    "size": [
+      911,
+      677
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      456,
+      339
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-06.webp",
+    "size": [
+      911,
+      1488
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      456,
+      744
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-07.webp",
+    "size": [
+      933,
+      644
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      467,
+      322
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-08.webp",
+    "size": [
+      918,
+      681
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      459,
+      341
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-09.webp",
+    "size": [
+      911,
+      677
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      456,
+      339
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-07-10.webp",
+    "size": [
+      911,
+      677
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      456,
+      339
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-00.webp",
+    "size": [
+      1142,
+      1057
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      571,
+      529
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-01.webp",
+    "size": [
+      1594,
+      1344
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      957,
+      807
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-02.webp",
+    "size": [
+      954,
+      291
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      477,
+      146
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-05.webp",
+    "size": [
+      294,
+      309
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      294,
+      309
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-08-08.webp",
+    "size": [
+      626,
+      626
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      376,
+      376
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-09.webp",
+    "size": [
+      2634,
+      1860
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1129,
+      798
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-10.webp",
+    "size": [
+      2634,
+      1860
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1129,
+      798
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-11.webp",
+    "size": [
+      2634,
+      1860
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1129,
+      798
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-12.webp",
+    "size": [
+      1550,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      775,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-13.webp",
+    "size": [
+      1550,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      775,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-14.webp",
+    "size": [
+      1550,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      775,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-15.webp",
+    "size": [
+      1550,
+      999
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      775,
+      500
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-08-16.webp",
+    "size": [
+      438,
+      480
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      438,
+      480
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-08-17.webp",
+    "size": [
+      653,
+      596
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      436,
+      397
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-00.webp",
+    "size": [
+      2560,
+      992
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1024,
+      397
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-01.webp",
+    "size": [
+      759,
+      564
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      456,
+      339
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-02.webp",
+    "size": [
+      1587,
+      893
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      706,
+      397
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-04.webp",
+    "size": [
+      1750,
+      987
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      750,
+      423
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-05.webp",
+    "size": [
+      2560,
+      1440
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1280,
+      720
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-06.webp",
+    "size": [
+      1280,
+      720
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      768,
+      432
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-07.webp",
+    "size": [
+      2560,
+      1440
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1536,
+      864
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-08.webp",
+    "size": [
+      1536,
+      864
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      768,
+      432
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-09.webp",
+    "size": [
+      746,
+      459
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      448,
+      276
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-09-10.webp",
+    "size": [
+      1500,
+      846
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      750,
+      423
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-10-00.webp",
+    "size": [
+      2422,
+      1264
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1454,
+      759
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-10-01.webp",
+    "size": [
+      1947,
+      1572
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      974,
+      786
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-12-00.webp",
+    "size": [
+      3264,
+      2880
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1959,
+      1728
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-13-00.webp",
+    "size": [
+      2052,
+      761
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1642,
+      609
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-14-00.webp",
+    "size": [
+      1930,
+      809
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1351,
+      567
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-14-01.webp",
+    "size": [
+      2166,
+      721
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1517,
+      505
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-15-00.webp",
+    "size": [
+      1843,
+      847
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1291,
+      593
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-16-00.webp",
+    "size": [
+      1979,
+      789
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1386,
+      553
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-16-01.webp",
+    "size": [
+      1985,
+      787
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1191,
+      473
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-17-00.webp",
+    "size": [
+      2607,
+      599
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1565,
+      360
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-17-01.webp",
+    "size": [
+      2150,
+      726
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1505,
+      509
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-18-00.webp",
+    "size": [
+      2032,
+      768
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1220,
+      461
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-18-01.webp",
+    "size": [
+      1710,
+      740
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      760,
+      329
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-18-02.webp",
+    "size": [
+      1905,
+      520
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1143,
+      312
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-18-03.webp",
+    "size": [
+      1666,
+      937
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      833,
+      469
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-19-00.webp",
+    "size": [
+      6228,
+      1148
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      2492,
+      460
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-19-01.webp",
+    "size": [
+      4310,
+      1390
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1724,
+      556
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-19-02.webp",
+    "size": [
+      2264,
+      1264
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      906,
+      506
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-19-03.webp",
+    "size": [
+      2285,
+      2016
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      980,
+      864
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-20-00.webp",
+    "size": [
+      2955,
+      1662
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1478,
+      831
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-20-01.webp",
+    "size": [
+      1358,
+      764
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      815,
+      459
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-20-02.webp",
+    "size": [
+      1788,
+      1006
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      894,
+      503
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-20-03.webp",
+    "size": [
+      810,
+      902
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      729,
+      812
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-21-00.webp",
+    "size": [
+      1606,
+      1202
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1446,
+      1082
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-22-00.webp",
+    "size": [
+      882,
+      978
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      882,
+      978
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-24-00.webp",
+    "size": [
+      1408,
+      736
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1408,
+      736
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-26-00.webp",
+    "size": [
+      1154,
+      866
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      808,
+      607
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-26-01.webp",
+    "size": [
+      971,
+      1029
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      777,
+      824
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-26-02.webp",
+    "size": [
+      659,
+      1516
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      264,
+      607
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-26-03.webp",
+    "size": [
+      968,
+      1032
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      484,
+      516
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-00.webp",
+    "size": [
+      1440,
+      1080
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      640,
+      480
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-01.webp",
+    "size": [
+      1440,
+      1080
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      640,
+      480
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-02.webp",
+    "size": [
+      1600,
+      1200
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      800,
+      600
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-03.webp",
+    "size": [
+      1600,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1120,
+      502
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-04.webp",
+    "size": [
+      1600,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      640,
+      287
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-27-05.webp",
+    "size": [
+      1600,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      640,
+      287
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-00.webp",
+    "size": [
+      2048,
+      1536
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-01.webp",
+    "size": [
+      2048,
+      1536
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-02.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-03.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-04.webp",
+    "size": [
+      2048,
+      1536
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-28-05.webp",
+    "size": [
+      1600,
+      902
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1600,
+      902
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-29-00.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-01.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-02.webp",
+    "size": [
+      1754,
+      1240
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1053,
+      744
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-03.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-04.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-05.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-06.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-07.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-29-08.webp",
+    "size": [
+      1404,
+      992
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      702,
+      496
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-30-00.webp",
+    "size": [
+      1148,
+      1639
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      431,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-30-01.webp",
+    "size": [
+      1600,
+      1119
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      800,
+      560
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-30-02.webp",
+    "size": [
+      1693,
+      2456
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      635,
+      921
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-30-03.webp",
+    "size": [
+      1266,
+      1842
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      633,
+      921
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-30-04.webp",
+    "size": [
+      1700,
+      2456
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      850,
+      1228
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-00.webp",
+    "size": [
+      717,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      308,
+      308
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-01.webp",
+    "size": [
+      1781,
+      1002
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      891,
+      501
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-02.webp",
+    "size": [
+      768,
+      512
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      461,
+      308
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-03.webp",
+    "size": [
+      717,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      308,
+      308
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-04.webp",
+    "size": [
+      922,
+      615
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      461,
+      308
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-05.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      960,
+      540
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-31-06.webp",
+    "size": [
+      717,
+      717
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      308,
+      308
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-00.webp",
+    "size": [
+      1425,
+      802
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-01.webp",
+    "size": [
+      1603,
+      902
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-02.webp",
+    "size": [
+      1603,
+      902
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-03.webp",
+    "size": [
+      1425,
+      802
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-04.webp",
+    "size": [
+      1603,
+      902
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-05.webp",
+    "size": [
+      1425,
+      802
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-06.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      768,
+      432
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-32-07.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      768,
+      432
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-33-00.webp",
+    "size": [
+      1781,
+      1002
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      891,
+      501
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-33-01.webp",
+    "size": [
+      1781,
+      1002
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1069,
+      602
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-33-02.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      960,
+      540
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-33-03.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1152,
+      648
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-00.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-01.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-02.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-03.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-04.webp",
+    "size": [
+      1844,
+      1383
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-05.webp",
+    "size": [
+      1844,
+      1383
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-06.webp",
+    "size": [
+      1844,
+      1383
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-34-07.webp",
+    "size": [
+      1639,
+      1229
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      820,
+      615
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-36-00.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      960,
+      540
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-36-01.webp",
+    "size": [
+      1651,
+      929
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      826,
+      465
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-36-02.webp",
+    "size": [
+      1920,
+      1080
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      960,
+      540
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-36-03.webp",
+    "size": [
+      2296,
+      1292
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      919,
+      517
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-37-00.webp",
+    "size": [
+      2378,
+      1337
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      2141,
+      1204
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-37-01.webp",
+    "size": [
+      3600,
+      2297
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1800,
+      1149
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-37-02.webp",
+    "size": [
+      1425,
+      802
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      713,
+      401
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-37-03.webp",
+    "size": [
+      1425,
+      802
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      535,
+      301
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-38-00.webp",
+    "size": [
+      2296,
+      1292
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      2296,
+      1292
+    ],
+    "higher_resolution": false
+  },
+  {
+    "name": "visual-38-01.webp",
+    "size": [
+      3600,
+      2297
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1800,
+      1149
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-38-02.webp",
+    "size": [
+      1608,
+      905
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      689,
+      388
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-38-03.webp",
+    "size": [
+      1536,
+      864
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      768,
+      432
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-39-00.webp",
+    "size": [
+      2488,
+      1469
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      1991,
+      1176
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-39-01.webp",
+    "size": [
+      3600,
+      2297
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1800,
+      1149
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-39-02.webp",
+    "size": [
+      1069,
+      602
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      535,
+      301
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-39-03.webp",
+    "size": [
+      1247,
+      702
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      535,
+      301
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-39-04.webp",
+    "size": [
+      1247,
+      702
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      535,
+      301
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-40-00.webp",
+    "size": [
+      2727,
+      1343
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      2455,
+      1209
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-40-01.webp",
+    "size": [
+      3600,
+      2297
+    ],
+    "alpha": true,
+    "standard_export_size": [
+      1800,
+      1149
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-40-02.webp",
+    "size": [
+      1344,
+      756
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      576,
+      324
+    ],
+    "higher_resolution": true
+  },
+  {
+    "name": "visual-40-03.webp",
+    "size": [
+      1344,
+      756
+    ],
+    "alpha": false,
+    "standard_export_size": [
+      576,
+      324
+    ],
+    "higher_resolution": true
+  }
+]
