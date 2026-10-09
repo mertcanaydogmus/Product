@@ -3,6 +3,7 @@
   const ambient = document.querySelector('.home .ambient, .ambient[data-portfolio-background]');
   if (!ambient) return;
   const secondaryPage = ambient.hasAttribute('data-portfolio-background');
+  const fieldStrength = document.body.classList.contains('resume') ? 0.16 : secondaryPage ? 0.5 : 0.78;
   const hero = secondaryPage ? null : document.querySelector('.home #home');
   const finePointer = matchMedia('(hover: hover) and (pointer: fine)');
   const pointer = { x:0.5, y:0.6, targetX:0.5, targetY:0.6, strength:0, targetStrength:0 };
@@ -32,16 +33,16 @@
       vec2 displaced = center + delta / max(1.0,distance) * influence * 18.0;
       float coverage = 1.0 - smoothstep(0.25,1.15 + influence * 0.65,length(pixel - displaced));
       float tint = (sin(center.x * 12.9898 + center.y * 78.233) + 1.0) * 0.5;
-      return vec4((vec3(96.0,118.0,143.0) + vec3(40.0,65.0,80.0) * influence) / 255.0,coverage * (0.19 + tint * 0.12 + influence * 0.5));
+      return vec4((vec3(150.0,112.0,80.0) + vec3(80.0,55.0,30.0) * influence) / 255.0,coverage * (0.19 + tint * 0.12 + influence * 0.5));
     }
     void main() {
       vec2 uv = vec2(gl_FragCoord.x, resolution.y - gl_FragCoord.y) / resolution;
-      vec3 color = vec3(3.0,5.0,11.0) / 255.0;
+      vec3 color = vec3(16.0,10.0,7.0) / 255.0;
       for (int i = 0; i < 5; i++) color += colors[i] * softField(uv,fields[i]) * strength;
       float reach = min(cssSize.x * 0.4,180.0);
       vec2 delta = (uv - pointer.xy) * cssSize;
       float distance = length(delta);
-      color += vec3(89.0,146.0,210.0) / 255.0 * exp(-distance * distance / (reach * reach)) * pointer.z * 0.1;
+      color += vec3(255.0,151.0,70.0) / 255.0 * exp(-distance * distance / (reach * reach)) * pointer.z * 0.1;
       // Neighbouring grid cells preserve round dots even when displaced across cell edges.
       vec2 pixel = uv * cssSize;
       float gap = cssSize.x < 600.0 ? 26.0 : 22.0;
@@ -91,7 +92,7 @@
       gl.viewport(0,0,canvas.width,canvas.height);
       gl.uniform2f(uniforms.resolution,canvas.width,canvas.height);
       gl.uniform2f(uniforms.cssSize,width,height);
-      gl.uniform1f(uniforms.strength,secondaryPage ? 0.5 : 0.78);
+      gl.uniform1f(uniforms.strength,fieldStrength);
       gl.uniform3f(uniforms.pointer,pointer.x,pointer.y,pointer.strength);
       gl.uniform4fv(uniforms['fields[0]'],new Float32Array(fields.flatMap(field => field.slice(0,4))));
       gl.uniform3fv(uniforms['colors[0]'],new Float32Array(fields.flatMap(field => field.slice(4,7).map(value => value / 255 * field[7]))));
@@ -109,12 +110,12 @@
     return (fields,width,height) => {
       context.setTransform(canvas.width / width,0,0,canvas.height / height,0,0);
       context.globalCompositeOperation = 'source-over';
-      context.fillStyle = '#03050b';
+      context.fillStyle = '#100a07';
       context.fillRect(0,0,width,height);
       context.globalCompositeOperation = 'lighter';
       const cursorRadius = Math.min(width * 0.4,180);
       const visibleFields = pointer.strength > 0.001
-        ? [...fields,[pointer.x,pointer.y,cursorRadius / width,cursorRadius / height,89,146,210,pointer.strength * 0.13]]
+        ? [...fields,[pointer.x,pointer.y,cursorRadius / width,cursorRadius / height,255,151,70,pointer.strength * 0.13]]
         : fields;
       for (const [x,y,rx,ry,r,g,b,opacity] of visibleFields) {
         context.save();
@@ -123,7 +124,7 @@
         const gradient = context.createRadialGradient(0,0,0,0,0,1);
         for (let stop = 0; stop <= 64; stop++) {
           const distance = stop / 64;
-          const alpha = Math.max(0,(Math.exp(-3.5 * distance * distance) - Math.exp(-3.5)) / (1 - Math.exp(-3.5))) * opacity * (secondaryPage ? 0.5 : 0.78);
+          const alpha = Math.max(0,(Math.exp(-3.5 * distance * distance) - Math.exp(-3.5)) / (1 - Math.exp(-3.5))) * opacity * (fieldStrength);
           gradient.addColorStop(distance,'rgba(' + [r,g,b,alpha].join(',') + ')');
         }
         context.fillStyle = gradient;
@@ -138,7 +139,7 @@
         const influence = Math.pow(Math.max(0,1 - distance / cursorRadius),2) * pointer.strength;
         const push = influence * 18;
         const tint = (Math.sin(x * 12.9898 + y * 78.233) + 1) / 2;
-        context.fillStyle = 'rgba(' + [96 + influence*40,118 + influence*65,143 + influence*80,0.19 + tint*0.12 + influence*0.5].join(',') + ')';
+        context.fillStyle = 'rgba(' + [150 + influence*80,112 + influence*55,80 + influence*30,0.19 + tint*0.12 + influence*0.5].join(',') + ')';
         context.beginPath();
         context.arc(x + dx / Math.max(1,distance)*push,y + dy / Math.max(1,distance)*push,0.75 + influence*0.65,0,Math.PI * 2);
         context.fill();
@@ -151,11 +152,11 @@
   function paint() {
     const t = phase;
     const fields = [
-      [-0.08+0.28*Math.sin(t*0.48),0.84+0.15*Math.cos(t*0.41),0.95,0.70,103,70,211,0.56],
-      [1.02+0.25*Math.cos(t*0.43+0.6),0.85+0.19*Math.sin(t*0.55+0.8),1.00,0.73,111,82,216,0.48],
-      [0.50+0.33*Math.sin(t*0.39+1.1),1.04+0.13*Math.cos(t*0.5),1.05,0.63,44,91,179,0.52],
-      [0.50+0.29*Math.cos(t*0.57+1.2),0.84+0.18*Math.sin(t*0.46+0.4),0.85,0.52,67,141,171,0.32],
-      [0.17+0.22*Math.sin(t*0.63+2.2),0.75+0.18*Math.cos(t*0.47+1.6),0.75,0.54,90,71,191,0.25]
+      [-0.08+0.28*Math.sin(t*0.48),0.84+0.15*Math.cos(t*0.41),0.95,0.70,242,100,30,0.62],
+      [1.02+0.25*Math.cos(t*0.43+0.6),0.85+0.19*Math.sin(t*0.55+0.8),1.00,0.73,230,117,34,0.52],
+      [0.50+0.33*Math.sin(t*0.39+1.1),1.04+0.13*Math.cos(t*0.5),1.05,0.63,209,67,18,0.52],
+      [0.50+0.29*Math.cos(t*0.57+1.2),0.84+0.18*Math.sin(t*0.46+0.4),0.85,0.52,255,172,70,0.38],
+      [0.17+0.22*Math.sin(t*0.63+2.2),0.75+0.18*Math.cos(t*0.47+1.6),0.75,0.54,198,78,25,0.28]
     ];
     const followX = (pointer.x - 0.5) * pointer.strength * 0.2;
     const followY = (pointer.y - 0.6) * pointer.strength * 0.16;
