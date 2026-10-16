@@ -1,0 +1,5 @@
+/* Preserve the source storyboard pixels and avoid unnecessary enlargement. */
+.harma-case .scenario-native{position:relative;aspect-ratio:var(--scene-ratio);width:100%;max-width:var(--scene-native-width);margin-inline:auto;overflow:hidden}
+.harma-case .scenario-native img{position:absolute;width:var(--scene-source-width);height:auto;max-width:none;max-height:none;aspect-ratio:auto;left:var(--scene-left);top:var(--scene-top);margin:0;object-fit:contain}
+.harma-case .harma-story-luggage .scenario-steps{max-width:854px;margin-inline:auto}
+@media(min-width:1100px){.harma-case .harma-story-stroller .scenario-steps{grid-template-columns:repeat(3,minmax(0,1fr))}}

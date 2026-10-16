@@ -35,6 +35,9 @@
 }
 .portfolio-shell .project-card>a { padding:20px; }
 .portfolio-shell .card-image { border:1px solid #ffffff12; }
+.home-projects .project-card>a[href="harma.html"] .card-image img { object-position:35% 50%; }
+.home-projects .project-card>a[href="mobile-infirmary.html"] .card-image img { object-position:40% 50%; }
+.home-projects .project-card>a[href="prodesign.html"] .card-image img { object-position:87% 50%; }
 .portfolio-shell .card-copy h2 { font-weight:400; letter-spacing:0; }
 .portfolio-shell .card-copy h2 span { color:#d0b7a3; font-weight:300; }
 .portfolio-shell .card-copy p { color:var(--muted); font-weight:300; line-height:1.7; }

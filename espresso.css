@@ -1,0 +1,26 @@
+/* The Maffilato presentation reuses the portfolio layout and original Figma assets. */
+.espresso-logo{display:block;position:relative;width:100%;max-width:540px;aspect-ratio:611/106;overflow:hidden}
+.espresso-logo img{position:absolute;width:141.4%;height:458.04%;max-width:none;left:-19.92%;top:-177.68%;filter:invert(1);object-fit:fill}
+.feature-cover.espresso{width:100%;aspect-ratio:auto;max-height:none;overflow:hidden;background:#101011}
+.feature-cover.espresso img{position:static;width:100%;height:auto;max-width:66rem;max-height:none;margin-inline:auto;aspect-ratio:auto;object-fit:contain}
+.espresso-features{row-gap:32px}
+.espresso-icon{width:auto;height:38px;max-width:48px;object-fit:contain;margin-bottom:18px;filter:invert(1);opacity:.82}
+.study-image.espresso-chart a{background:#fffef1;overflow:hidden;max-width:900px;margin-inline:auto}
+.study-image.espresso-chart img{position:static;width:100%;height:auto;max-width:100%;max-height:none;margin:0;aspect-ratio:auto;object-fit:contain}
+.espresso-case .study-image.cutout img{width:auto;height:auto;aspect-ratio:auto;max-width:min(100%,var(--asset-max,100%));max-height:620px;margin-inline:auto;object-fit:contain}
+.espresso-case .study-gallery:not(.one) .study-image.cutout{display:flex;flex-direction:column}
+.espresso-case .study-gallery:not(.one) .study-image.cutout a{flex:1;display:flex;align-items:center;justify-content:center}
+.study-image.espresso-sketch-board a{background:#fff}
+.study-image.espresso-sketch-board img{width:100%;height:auto;max-width:100%;max-height:none;aspect-ratio:auto;object-fit:contain}
+.espresso-portafilter-crop{display:flex;flex-direction:column;justify-content:center}
+.espresso-portafilter-crop a{aspect-ratio:542/124;overflow:hidden;position:relative;width:100%}
+.espresso-portafilter-crop img{position:absolute;width:139.02%;height:341.94%;max-width:none;max-height:none;left:-19.05%;top:-154.03%;aspect-ratio:auto;object-fit:fill}
+.home-projects .espresso-card .card-image{aspect-ratio:.83;position:relative;background:#171719}
+.home-projects .espresso-card .card-image img{position:absolute;left:50%;top:0;transform:translateX(-50%);width:auto;height:100%;max-width:none;aspect-ratio:auto;object-fit:contain}
+.home-projects .sigma-card .card-image img{height:auto}
+@media(hover:hover) and (pointer:fine){.home-projects .espresso-card:hover .card-image img{transform:translateX(-50%) scale(1.025)}}
+/* Six projects use two balanced rows; existing tablet and mobile columns remain. */
+@media(min-width:1151px){.home-projects .project-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.home-projects .card-image,.home-projects .espresso-card .card-image{aspect-ratio:1.25}.home-projects .card-image img{aspect-ratio:1.25;height:auto}.home-projects .espresso-card .card-image img{aspect-ratio:auto;height:100%}}
+@media(max-width:1150px){.home-projects .espresso-card .card-image{aspect-ratio:1.05}}
+@media(max-width:760px){.espresso-features{gap:26px}.espresso-icon{height:32px}}
+@media(max-width:600px){.home-projects .espresso-card .card-image{aspect-ratio:1}}
